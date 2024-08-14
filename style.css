@@ -1,0 +1,39 @@
+body{
+    background-color: yellow;
+}
+.tools{
+    content: none;
+}
+.material-symbols-outlined {
+    margin: 0 50%;
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 50px;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined{
+    transition: 0.7s;
+}
+.material-symbols-outlined:hover{
+    padding: 10px 100px;
+    transition: 0.7s;
+}
+
+/* .menu{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    border-radius: 50px;
+    border: none;
+}
+.menu:hover{
+    background-color: white;
+    color: black;
+    border: none;
+    transition: 0.6s;
+} */
