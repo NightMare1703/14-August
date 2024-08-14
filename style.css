@@ -2,7 +2,7 @@ body{
     background-color: yellow;
 }
 .tools{
-    content: none;
+    
 }
 .material-symbols-outlined {
     margin: 0 50%;
@@ -18,9 +18,11 @@ body{
 }
 .material-symbols-outlined{
     transition: 0.7s;
+    display: flex;
+    justify-content: center;
 }
 .material-symbols-outlined:hover{
-    padding: 10px 100px;
+    padding: 10px 100px 0px 100px;
     transition: 0.7s;
 }
 
